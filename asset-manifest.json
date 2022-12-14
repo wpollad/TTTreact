@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TTTreact/static/css/main.22941023.css",
+    "main.js": "/TTTreact/static/js/main.2c8828c0.js",
+    "index.html": "/TTTreact/index.html",
+    "main.22941023.css.map": "/TTTreact/static/css/main.22941023.css.map",
+    "main.2c8828c0.js.map": "/TTTreact/static/js/main.2c8828c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22941023.css",
+    "static/js/main.2c8828c0.js"
+  ]
+}
